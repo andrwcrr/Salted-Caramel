@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This modpack aims to provide a performant vanilla Minecraft experience embellished by various quality-of-life and useful features.
+This modpack aims to provide a performant vanilla Minecraft experience embellished with various quality-of-life and useful features.
 
 ## Contents (from most recent complete fabric version)
 
