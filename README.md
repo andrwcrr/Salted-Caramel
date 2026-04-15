@@ -97,7 +97,8 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
 
 </details>
-NB: Other versions of Minecraft may have different contents to that listed.
+
+**NB: Other versions of Minecraft may have different contents to that listed.**
 
 ---
 <details>
@@ -116,6 +117,8 @@ NB: Other versions of Minecraft may have different contents to that listed.
 - Tweakeroo
   - `Ctrl + F` - `tweakFreeCamera` (toggles a free camera mode similar to spectator mode).
   - `Ctrl + G` - `tweakGammaOverride` (toggles full bright).
+---
+**NB: This list is not exhaustive.**
   
 </details>
 
