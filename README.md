@@ -11,11 +11,10 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 ## Contents (from most recent complete fabric version)
 
 <details>
-   <summary>Mods (61)</summary>
+   <summary>Mods (64)</summary>
 
 - [Animatica](https://modrinth.com/mod/animatica)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
-- [BetterGrassify](https://modrinth.com/mod/bettergrassify)
 - [Bobby](https://modrinth.com/mod/bobby)
 - [Cape Provider](https://modrinth.com/mod/cape-provider)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
@@ -36,6 +35,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
 - [Fast Noise](https://modrinth.com/mod/zfastnoise)
+- [FastQuit](https://modrinth.com/mod/fastquit)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
@@ -44,7 +44,9 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Ixeris](https://modrinth.com/mod/ixeris)
+- [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+- [Language Reload](https://modrinth.com/mod/language-reload)
 - [libIPN](https://modrinth.com/mod/libipn)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [MacOS Input Fixes](https://modrinth.com/mod/macos-input-fixes/versions)
@@ -61,6 +63,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Polytone](https://modrinth.com/mod/polytone)
 - [Puzzle](https://modrinth.com/mod/puzzle)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+- [quick pack](https://modrinth.com/mod/quick-pack)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)
 - [Resourcify](https://modrinth.com/mod/resourcify)
@@ -94,14 +97,34 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
 
 </details>
-NB: Other versions of Minecraft may have different contents to what is listed above.
+NB: Other versions of Minecraft may have different contents to that listed.
+
+---
+<details>
+  <summary>Useful modded keybinds</summary>
+
+- Inventory Profiles Next
+  - `R` - Sort Inventory (sorts any active inventory or container).
+- Iris Shaders
+  - `Alt + K` - Toggle Shaders.
+  - `Alt + O` - Shaderpack Selection Screen.
+- MiniHUD
+  - `F4` - `mainRenderingToggle` (toggles all MiniHUD rendering including info lines and overlay renderers).
+  - `Ctrl + L` - `overlayLightLevel` (toggles the light level overlay).
+- Ok Zoomer
+  - `C` - Zoom.
+- Tweakeroo
+  - `Ctrl + F` - `tweakFreeCamera` (toggles a free camera mode similar to spectator mode).
+  - `Ctrl + G` - `tweakGammaOverride` (toggles full bright).
+  
+</details>
 
 ## Credits
 
 - [EminGT](https://modrinth.com/user/EminGT) - This modpack contains EminGT's [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) shader.
 - [Vanilla Tweaks](https://vanillatweaks.net/) - This modpack includes a [Vanilla Tweaks resource pack](https://vanillatweaks.net/picker/resource-packs/).
 
-If this modpack contains any uncredited/miscredited content, or contains content that I have not sought permission for, please inform me by opening an [issue](https://github.com/andrwcrr/Andrews-Vanilla-Modpack/issues) so that I can resolve it.
+If this modpack contains any un/miscredited content, or contains content that I have not sought permission for, please inform me by opening an [issue](https://github.com/andrwcrr/Andrews-Vanilla-Modpack/issues) so that I can resolve it.
 
 ---
-[![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/adrenaline_vector.svg)](https://modrinth.com/modpack/adrenaline)
+[![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg)](https://modrinth.com/modpack/adrenaline) [![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net/) [![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)
