@@ -105,6 +105,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 
 - Inventory Profiles Next
   - `R` - Sort Inventory (sorts any active inventory or container).
+  - `Alt + Left Click` - Lock Slot (locks the slot you clicked on which makes it immune to being sorted, dropped, moved, etc).
 - Iris Shaders
   - `Alt + K` - Toggle Shaders.
   - `Alt + O` - Shaderpack Selection Screen.
