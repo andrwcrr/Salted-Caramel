@@ -11,14 +11,13 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 ## Contents (from most recent complete fabric version)
 
 <details>
-   <summary>Mods (64)</summary>
+   <summary>Mods (63)</summary>
 
 - [Animatica](https://modrinth.com/mod/animatica)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
 - [Bobby](https://modrinth.com/mod/bobby)
 - [Cape Provider](https://modrinth.com/mod/cape-provider)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
-- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
 - [Config Manager](https://modrinth.com/mod/configmanager)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
