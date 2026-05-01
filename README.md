@@ -55,7 +55,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [MiniHUD](https://modrinth.com/mod/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus)
-- [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
+- [Ok Zoomer - It's Zoom!](https://modrinth.com/mod/ok-zoomer)
 - [OptiGUI](https://modrinth.com/mod/optigui)
 - [Particle Core](https://modrinth.com/mod/particle-core)
 - [Ping View](https://modrinth.com/mod/ping-view)
