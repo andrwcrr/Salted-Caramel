@@ -8,21 +8,22 @@
 
 This modpack aims to provide a performant vanilla Minecraft experience embellished with various quality-of-life and useful features.
 
-## Contents (from most recent complete fabric version)
+## Contents (from most recent fabric version)
 
 <details>
-   <summary>Mods (63)</summary>
+   <summary>Mods (64)</summary>
 
-- [Animatica](https://modrinth.com/mod/animatica)
+- [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
 - [Bobby](https://modrinth.com/mod/bobby)
-- [Borderless Mining Updated](https://modrinth.com/mod/borderless-mining-updated)
 - [Cape Provider](https://modrinth.com/mod/cape-provider)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
 - [Config Manager](https://modrinth.com/mod/configmanager)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
 - [CraterLib](https://modrinth.com/mod/craterlib)
+- [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
 - [Cull Fewer Leaves](https://modrinth.com/mod/cull-fewer-leaves)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [e4mc](https://modrinth.com/mod/e4mc)
@@ -34,11 +35,11 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
 - [Fast Noise](https://modrinth.com/mod/zfastnoise)
-- [FastQuit](https://modrinth.com/mod/fastquit)
+- [FastQuit](https://modrinth.com/mod/fastquit) (missing)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux)
+- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) (missing)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config) (missing)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [Iris Shaders](https://modrinth.com/mod/iris)
@@ -57,9 +58,9 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus)
 - [Ok Zoomer - It's Zoom!](https://modrinth.com/mod/ok-zoomer)
 - [OptiGUI](https://modrinth.com/mod/optigui)
-- [Particle Core](https://modrinth.com/mod/particle-core)
+- [Particle Core](https://modrinth.com/mod/particle-core) (missing)
 - [Ping View](https://modrinth.com/mod/ping-view)
-- [Polytone](https://modrinth.com/mod/polytone)
+- [Polytone](https://modrinth.com/mod/polytone) (missing)
 - [Puzzle](https://modrinth.com/mod/puzzle)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 - [quick pack](https://modrinth.com/mod/quick-pack)
