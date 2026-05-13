@@ -8,7 +8,7 @@
 
 This modpack aims to provide a performant vanilla Minecraft experience embellished with various quality-of-life and useful features.
 
-## Contents (from most recent fabric version)
+## Contents
 
 <details>
    <summary>Mods (64)</summary>
@@ -98,7 +98,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 
 </details>
 
-**NB: Other versions of Minecraft may have different contents to that listed.**
+**NB: These are the contents of the latest fabric version, other versions of Minecraft may have different contents to that listed.**
 
 ---
 <details>
