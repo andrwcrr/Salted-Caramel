@@ -11,7 +11,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 ## Contents
 
 <details>
-   <summary>Mods (64)</summary>
+   <summary>Mods (68)</summary>
 
 - [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated)
 - [Better Block Entities](https://modrinth.com/mod/better-block-entities)
@@ -35,12 +35,13 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
 - [Fast Noise](https://modrinth.com/mod/zfastnoise)
-- [FastQuit](https://modrinth.com/mod/fastquit) (missing)
+- [FastQuit](https://modrinth.com/mod/fastquit)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) (missing)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
-- [Fzzy Config](https://modrinth.com/mod/fzzy-config) (missing)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Immersive Optimization](https://modrinth.com/mod/immersive-optimization)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Ixeris](https://modrinth.com/mod/ixeris)
@@ -58,7 +59,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus)
 - [Ok Zoomer - It's Zoom!](https://modrinth.com/mod/ok-zoomer)
 - [OptiGUI](https://modrinth.com/mod/optigui)
-- [Particle Core](https://modrinth.com/mod/particle-core) (missing)
+- [Particle Core](https://modrinth.com/mod/particle-core)
 - [Ping View](https://modrinth.com/mod/ping-view)
 - [Polytone](https://modrinth.com/mod/polytone) (missing)
 - [Puzzle](https://modrinth.com/mod/puzzle)
@@ -66,6 +67,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [quick pack](https://modrinth.com/mod/quick-pack)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)
+- [Resourceful Config](https://modrinth.com/mod/resourceful-config)
 - [Resourcify](https://modrinth.com/mod/resourcify)
 - [ScalableLux](https://modrinth.com/mod/scalablelux)
 - [ServerCore](https://modrinth.com/mod/servercore)
@@ -74,6 +76,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks)
+- [Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer)
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 - [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)
 - [Tweakeroo](https://modrinth.com/mod/tweakeroo)
