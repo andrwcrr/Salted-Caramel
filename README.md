@@ -1,9 +1,45 @@
-<center>
 
-![Andrew's Vanilla Modpack](https://raw.githubusercontent.com/andrwcrr/Salted-Caramel/refs/heads/main/images/sc%20banner.png)
+?
+Discover content
+Host a server
+Get Modrinth App
+Publish
 
-</center>
+Salted Caramel - Minecraft Modpack
+Project updated
 
+
+Your project has been updated.
+Salted Caramel
+Settings
+Visit projects dashboard
+General
+Tags
+Description
+Versions
+License
+Gallery
+Links
+Members
+Analytics
+Description
+You can type an extended description of your project here. The description must clearly and honestly describe the purpose and function of the project. See section 2.1 of the Content Rules for the full requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preview
 ## Purpose
 
 This modpack aims to provide a performant vanilla Minecraft experience embellished with various quality-of-life and useful features.
@@ -37,7 +73,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Fast Noise](https://modrinth.com/mod/zfastnoise)
 - [FastQuit](https://modrinth.com/mod/fastquit)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux) (missing)
+- [~~Fix Keyboard on Linux~~](https://modrinth.com/mod/fix-keyboard-on-linux)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
@@ -61,7 +97,7 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [OptiGUI](https://modrinth.com/mod/optigui)
 - [Particle Core](https://modrinth.com/mod/particle-core)
 - [Ping View](https://modrinth.com/mod/ping-view)
-- [Polytone](https://modrinth.com/mod/polytone) (missing)
+- [~~Polytone~~](https://modrinth.com/mod/polytone)
 - [Puzzle](https://modrinth.com/mod/puzzle)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 - [quick pack](https://modrinth.com/mod/quick-pack)
@@ -81,6 +117,8 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
 - [Too Many Shortcuts](https://modrinth.com/mod/too-many-shortcuts)
 - [Tweakeroo](https://modrinth.com/mod/tweakeroo)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+
+**NB: Text with strikethrough applied are the mods that are incompatible thus far but would be in the modpack should they ever become compatible.**
 </details>
 
 <details>
@@ -96,42 +134,32 @@ This modpack aims to provide a performant vanilla Minecraft experience embellish
   
 - [Non-emissive wolf armour](https://cdn.discordapp.com/attachments/999566683956051968/1379132442459504650/remove_wolf_armor_overay_emissive.zip?ex=68426c6d&is=68411aed&hm=61e7712483c4d5a0e021d1f12c688b0d7971013f37fb622d10c0dc24b8b29037&) (`remove wolf armor overay emissive.zip` made by [DominoKorean](https://github.com/DominoKorean) available on their [discord server](https://discord.gg/8TTHzEVE) in this [message](https://discord.com/channels/814534442479255624/999566683956051968/1379132442740527134))
 - [SPBR](https://modrinth.com/resourcepack/spbr)
-- [SPBR - Revanilla](https://modrinth.com/resourcepack/spbr-revanilla)
-- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
+This editor supports
+Markdown formatting
+.
+Modrinth is open source.
 
-</details>
+© 2026 Rinth, Inc.
 
-**NB: These are the contents of the latest fabric version, other versions of Minecraft may have different contents to that listed.**
-
----
-<details>
-  <summary>Useful modded keybinds</summary>
-
-- Inventory Profiles Next
-  - `R` - Sort Inventory (sorts any active inventory or container).
-  - `Alt + Left Click` - Lock Slot (locks the slot you clicked on which makes it immune to being sorted, dropped, moved, etc).
-- Iris Shaders
-  - `Alt + K` - Toggle Shaders.
-  - `Alt + O` - Shaderpack Selection Screen.
-- MiniHUD
-  - `F4` - `mainRenderingToggle` (toggles all MiniHUD rendering including info lines and overlay renderers).
-  - `Ctrl + L` - `overlayLightLevel` (toggles the light level overlay).
-- Ok Zoomer
-  - `C` - Zoom.
-- Tweakeroo
-  - `Ctrl + F` - `tweakFreeCamera` (toggles a free camera mode similar to spectator mode).
-  - `Ctrl + G` - `tweakGammaOverride` (toggles full bright).
----
-**NB: This list is not exhaustive.**
-  
-</details>
-
-## Credits
-
-- [EminGT](https://modrinth.com/user/EminGT) - This modpack contains EminGT's [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) shader.
-- [Vanilla Tweaks](https://vanillatweaks.net/) - This modpack includes a [Vanilla Tweaks resource pack](https://vanillatweaks.net/picker/resource-packs/).
-
-If this modpack contains any un/miscredited content, or contains content that I have not sought permission for, please inform me by opening an [issue](https://github.com/andrwcrr/Andrews-Vanilla-Modpack/issues) so that I can resolve it.
-
----
-[![adrenaline](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg)](https://modrinth.com/modpack/adrenaline) [![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net/) [![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)
+About
+News
+Changelog
+Status
+Careers
+Rewards Program
+Products
+Modrinth+
+Modrinth App
+Modrinth Hosting
+Resources
+Help Center
+Translate
+Report issues
+API documentation
+Legal
+Content Rules
+Terms of Use
+Privacy Policy
+Security Notice
+Copyright Policy and DMCA
+NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
